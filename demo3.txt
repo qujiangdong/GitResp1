@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-vsfdvdsfvsfdbgfdbdfbdgbd
-=======
-vs
-通过branch增加内容
->>>>>>> branch01
